@@ -1,0 +1,4 @@
+packages:
+  - play # playground
+  - docs # 组件文档
+  - packages/**
