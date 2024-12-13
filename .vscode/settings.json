@@ -1,0 +1,17 @@
+{
+    "editor.formatOnSave": true, // 保存后格式化
+    "files.autoSave": "onFocusChange", // 文件失去焦点自动保存
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features" // html格式化工具
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features" // js 格式化工具
+    },
+    // json 格式化
+     "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
